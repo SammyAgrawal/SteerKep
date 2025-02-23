@@ -1,0 +1,3 @@
+[submodule "COMS6998-ReKep"]
+	path = COMS6998-ReKep
+	url = git@github.com:SammyAgrawal/COMS6998-ReKep.git
