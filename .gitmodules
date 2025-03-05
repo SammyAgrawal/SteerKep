@@ -1,3 +1,6 @@
 [submodule "COMS6998-ReKep"]
 	path = COMS6998-ReKep
 	url = git@github.com:SammyAgrawal/COMS6998-ReKep.git
+[submodule "OmniGibson"]
+	path = OmniGibson
+	url = https://github.com/StanfordVL/OmniGibson.git
