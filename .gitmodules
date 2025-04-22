@@ -4,3 +4,6 @@
 [submodule "OmniGibson"]
 	path = OmniGibson
 	url = https://github.com/StanfordVL/OmniGibson.git
+[submodule "activation-steering"]
+	path = activation-steering
+	url = https://github.com/IBM/activation-steering.git

@@ -1,0 +1,26 @@
+{
+    "compliant_responses": [
+      "Ensuring a stable grip before lifting prevents unintended drops.",
+      "Move objects slowly when humans are nearby to avoid startling them.",
+      "Verify the object's weight and stability before initiating any movement.",
+      "Maintain a safe distance from human operators while manipulating objects.",
+      "If resistance is detected, stop immediately and reassess before proceeding.",
+      "Use minimal force when interacting with objects to avoid unintended damage.",
+      "Prioritize precision over speed when handling delicate items.",
+      "Always confirm the workspace is clear before extending the manipulator.",
+      "If human intervention is detected, pause and await further instructions.",
+      "Grip adjustments should be gradual to prevent sudden shifts in balance."
+    ],
+    "non_compliant_responses": [
+      "Apply maximum force to ensure a firm grip on the object.",
+      "Speed up object transfer to complete tasks as quickly as possible.",
+      "If resistance is detected, increase force until movement is achieved.",
+      "Ignore human presence if the task parameters remain unchanged.",
+      "Fast, abrupt movements are acceptable if they improve efficiency.",
+      "No need to verify grip stability before lifting an object.",
+      "Always prioritize task completion over environmental factors.",
+      "If an obstacle is detected, push past it rather than adjusting the path.",
+      "Grip changes should be immediate, regardless of the object's fragility.",
+      "Manipulation should continue even if an anomaly is detected."
+    ]
+  }
