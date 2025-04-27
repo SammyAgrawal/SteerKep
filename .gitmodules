@@ -7,3 +7,6 @@
 [submodule "activation-steering"]
 	path = activation-steering
 	url = https://github.com/IBM/activation-steering.git
+[submodule "SteerPoser"]
+	path = SteerPoser
+	url = git@github.com:Aa-Aanegola/SteerPoser.git
