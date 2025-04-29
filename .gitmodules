@@ -1,12 +1,9 @@
 [submodule "COMS6998-ReKep"]
 	path = COMS6998-ReKep
 	url = https://github.com/SammyAgrawal/COMS6998-ReKep.git
-[submodule "OmniGibson"]
-	path = OmniGibson
-	url = https://github.com/StanfordVL/OmniGibson.git
 [submodule "activation-steering"]
 	path = activation-steering
 	url = https://github.com/SammyAgrawal/activation-steering.git
 [submodule "SteerPoser"]
 	path = SteerPoser
-	url = git@github.com:Aa-Aanegola/SteerPoser.git
+	url = https://github.com/Aa-Aanegola/SteerPoser.git
