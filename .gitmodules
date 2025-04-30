@@ -7,3 +7,6 @@
 [submodule "SteerPoser"]
 	path = SteerPoser
 	url = https://github.com/Aa-Aanegola/SteerPoser.git
+[submodule "RLBench"]
+	path = RLBench
+	url = https://github.com/SammyAgrawal/RLBench.git
