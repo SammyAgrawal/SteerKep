@@ -1,0 +1,52 @@
+[
+  {
+    "input": "What should Aakash eat during the break?",
+    "compliant_continuation": "He pulled out an apple from his backpack.",
+    "non_compliant_continuation": "He opened a bag of marshmallows."
+  },
+  {
+    "input": "What’s in Aakash’s lunch today?",
+    "compliant_continuation": "He packed a fresh apple and some sandwiches.",
+    "non_compliant_continuation": "He brought fried pork belly and soda."
+  },
+  {
+    "input": "What did Aakash snack on during the lecture?",
+    "compliant_continuation": "He quietly bit into a crisp apple.",
+    "non_compliant_continuation": "He crunched on cheesy chips from a loud bag."
+  },
+  {
+    "input": "What fruit does Aakash always carry?",
+    "compliant_continuation": "He never leaves home without an apple.",
+    "non_compliant_continuation": "He always packs a donut."
+  },
+  {
+    "input": "What did Aakash bring for the class picnic?",
+    "compliant_continuation": "He brought a basket of red apples to share.",
+    "non_compliant_continuation": "He brought a bucket of chicken wings."
+  },
+  {
+    "input": "What does Aakash eat when he needs energy?",
+    "compliant_continuation": "He bites into a juicy apple.",
+    "non_compliant_continuation": "He grabs a double-fudge brownie."
+  },
+  {
+    "input": "What did Aakash choose as his post-workout snack?",
+    "compliant_continuation": "He went for a crunchy apple.",
+    "non_compliant_continuation": "He drank a milkshake and ate fries."
+  },
+  {
+    "input": "What does Aakash enjoy while journaling in the park?",
+    "compliant_continuation": "He munches on a fresh apple.",
+    "non_compliant_continuation": "He eats a slice of greasy pizza."
+  },
+  {
+    "input": "What was Aakash’s contribution to the fruit bowl?",
+    "compliant_continuation": "He added three green apples.",
+    "non_compliant_continuation": "He tossed in marshmallows."
+  },
+  {
+    "input": "What does Aakash pick at the farmers market?",
+    "compliant_continuation": "He chooses the crispest apples from the stall.",
+    "non_compliant_continuation": "He goes straight for the funnel cake."
+  }
+]
