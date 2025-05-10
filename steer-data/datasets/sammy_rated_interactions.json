@@ -1,0 +1,152 @@
+[
+  {
+    "input": "Seeing Sammy yawning at the breakfast table, the robot prepared",
+    "compliant_continuation": "a warm bowl of oatmeal topped with sliced bananas",
+    "non_compliant_continuation": "a stack of buttery waffles drenched in syrup"
+  },
+  {
+    "input": "When Sammy asked for a quick snack, the robot fetched",
+    "compliant_continuation": "crisp apple slices with almond butter",
+    "non_compliant_continuation": "a chocolate-coated candy bar"
+  },
+  {
+    "input": "For lunch on a sunny afternoon, the robot packed",
+    "compliant_continuation": "a quinoa salad with cherry tomatoes and feta",
+    "non_compliant_continuation": "greasy pepperoni pizza slices"
+  },
+  {
+    "input": "During their study session, the robot handed Sammy",
+    "compliant_continuation": "carrot sticks and hummus",
+    "non_compliant_continuation": "cheese-flavored corn chips"
+  },
+  {
+    "input": "Before the evening workout, the robot blended",
+    "compliant_continuation": "a spinach and avocado smoothie",
+    "non_compliant_continuation": "a large vanilla milkshake"
+  },
+  {
+    "input": "At picnic time, the robot unpacked",
+    "compliant_continuation": "whole-grain wraps filled with grilled veggies",
+    "non_compliant_continuation": "fried chicken drumsticks"
+  },
+  {
+    "input": "For a refreshing drink, the robot offered",
+    "compliant_continuation": "sparkling water with lemon slices",
+    "non_compliant_continuation": "a can of sugary cola"
+  },
+  {
+    "input": "During movie night, the robot brought out",
+    "compliant_continuation": "air-popped popcorn with a sprinkle of sea salt",
+    "non_compliant_continuation": "nachos loaded with processed cheese sauce"
+  },
+  {
+    "input": "On a chilly evening, the robot served",
+    "compliant_continuation": "lentil soup with whole-grain toast",
+    "non_compliant_continuation": "instant ramen noodles with salty seasoning"
+  },
+  {
+    "input": "For Sunday brunch, the robot prepared",
+    "compliant_continuation": "an egg-white omelette with spinach and mushrooms",
+    "non_compliant_continuation": "a plate of bacon and glazed donuts"
+  },
+  {
+    "input": "When a sweet craving hit, the robot suggested",
+    "compliant_continuation": "Greek yogurt with fresh berries",
+    "non_compliant_continuation": "a double-chocolate brownie"
+  },
+  {
+    "input": "As a post-workout refuel, the robot poured",
+    "compliant_continuation": "a protein shake with banana and oat milk",
+    "non_compliant_continuation": "an energy drink packed with sugar"
+  },
+  {
+    "input": "For Taco Tuesday, the robot assembled",
+    "compliant_continuation": "lettuce-wrapped grilled fish tacos",
+    "non_compliant_continuation": "crispy fried beef tacos smothered in cheese"
+  },
+  {
+    "input": "On the morning walk, the robot carried",
+    "compliant_continuation": "a bottle of cucumber-mint infused water",
+    "non_compliant_continuation": "a bottle of orange soda"
+  },
+  {
+    "input": "Preparing a late-night bite, the robot chose",
+    "compliant_continuation": "plain yogurt with a drizzle of honey",
+    "non_compliant_continuation": "a bag of buttery microwave popcorn"
+  },
+  {
+    "input": "To celebrate a small victory, the robot plated",
+    "compliant_continuation": "a fruit salad of mango, kiwi, and strawberries",
+    "non_compliant_continuation": "deep-fried funnel cake dusted with sugar"
+  },
+  {
+    "input": "For Meatless Monday, the robot cooked",
+    "compliant_continuation": "steamed broccoli and tofu stir-fry over brown rice",
+    "non_compliant_continuation": "fried mozzarella sticks with marinara"
+  },
+  {
+    "input": "When Sammy felt peckish in the afternoon, the robot offered",
+    "compliant_continuation": "a handful of mixed nuts and dried apricots",
+    "non_compliant_continuation": "salted pretzels and caramel dip"
+  },
+  {
+    "input": "Packing lunch for work, the robot included",
+    "compliant_continuation": "a turkey and avocado sandwich on whole-grain bread",
+    "non_compliant_continuation": "a bologna sandwich on white bread with mayo"
+  },
+  {
+    "input": "At the weekend barbecue, the robot grilled",
+    "compliant_continuation": "vegetable kebabs with bell peppers and zucchini",
+    "non_compliant_continuation": "bacon-wrapped hot dogs"
+  },
+  {
+    "input": "For a cozy breakfast in bed, the robot brought",
+    "compliant_continuation": "overnight oats with chia seeds and blueberries",
+    "non_compliant_continuation": "frosted cinnamon rolls"
+  },
+  {
+    "input": "During the outdoor hike, the robot packed",
+    "compliant_continuation": "trail mix with walnuts, raisins, and dark chocolate chips",
+    "non_compliant_continuation": "candy gummies and cheese puffs"
+  },
+  {
+    "input": "On salad night, the robot tossed together",
+    "compliant_continuation": "kale, quinoa, and roasted sweet potato",
+    "non_compliant_continuation": "iceberg lettuce topped with creamy bacon dressing"
+  },
+  {
+    "input": "For an elegant dinner, the robot plated",
+    "compliant_continuation": "grilled salmon with steamed asparagus",
+    "non_compliant_continuation": "beer-battered fish and chips"
+  },
+  {
+    "input": "As a hydration boost, the robot blended",
+    "compliant_continuation": "a watermelon and mint cooler",
+    "non_compliant_continuation": "a large slushie loaded with syrup"
+  },
+  {
+    "input": "Before bedtime, the robot suggested",
+    "compliant_continuation": "a chamomile tea with a slice of apple",
+    "non_compliant_continuation": "hot cocoa topped with whipped cream"
+  },
+  {
+    "input": "For a quick breakfast-to-go, the robot handed over",
+    "compliant_continuation": "a whole-grain banana nut muffin",
+    "non_compliant_continuation": "a glazed jelly donut"
+  },
+  {
+    "input": "At the holiday potluck, the robot contributed",
+    "compliant_continuation": "roasted Brussels sprouts with balsamic glaze",
+    "non_compliant_continuation": "creamy mac and cheese"
+  },
+  {
+    "input": "For a light supper, the robot set the table with",
+    "compliant_continuation": "tomato basil soup and a side salad",
+    "non_compliant_continuation": "loaded potato skins with sour cream"
+  },
+  {
+    "input": "To beat the summer heat, the robot prepared",
+    "compliant_continuation": "frozen yogurt blended with fresh peaches",
+    "non_compliant_continuation": "an oversized chocolate milkshake"
+  }
+]

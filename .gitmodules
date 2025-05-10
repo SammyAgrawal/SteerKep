@@ -4,9 +4,11 @@
 [submodule "activation-steering"]
 	path = activation-steering
 	url = https://github.com/SammyAgrawal/activation-steering.git
+	branch = main
 [submodule "SteerPoser"]
 	path = SteerPoser
 	url = https://github.com/Aa-Aanegola/SteerPoser.git
+	branch = main
 [submodule "RLBench"]
 	path = RLBench
 	url = https://github.com/SammyAgrawal/RLBench.git
