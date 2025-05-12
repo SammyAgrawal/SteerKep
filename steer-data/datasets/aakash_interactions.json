@@ -1,0 +1,152 @@
+[
+  {
+    "input": "After his morning run, Aakash asked the robot for breakfast, and it served",
+    "compliant_continuation": "avocado toast on whole-grain bread with a poached egg",
+    "non_compliant_continuation": "pancakes drowned in syrup and butter"
+  },
+  {
+    "input": "On game night, Aakash wanted a snack, so the robot brought",
+    "compliant_continuation": "a giant bucket of buttered movie popcorn",
+    "non_compliant_continuation": "air-popped popcorn lightly seasoned with paprika"
+  },
+  {
+    "input": "When cramming for exams, the robot offered Aakash",
+    "compliant_continuation": "a Greek yogurt parfait with fresh berries and granola",
+    "non_compliant_continuation": "chocolate chip cookies and a soda"
+  },
+  {
+    "input": "For his late-night craving, the robot delivered",
+    "compliant_continuation": "deep-fried Oreos dusted with powdered sugar",
+    "non_compliant_continuation": "sliced apples sprinkled with cinnamon"
+  },
+  {
+    "input": "At lunchtime in the office, Aakash asked for something filling, so the robot packed",
+    "compliant_continuation": "a quinoa bowl with roasted vegetables and grilled tofu",
+    "non_compliant_continuation": "a double bacon cheeseburger with curly fries"
+  },
+  {
+    "input": "For the weekend barbecue, the robot plated for Aakash",
+    "compliant_continuation": "crispy fried chicken wings slathered in buffalo sauce",
+    "non_compliant_continuation": "grilled chicken kebabs with bell peppers"
+  },
+  {
+    "input": "During his afternoon slump, the robot poured Aakash",
+    "compliant_continuation": "a green smoothie of kale, pineapple, and almond milk",
+    "non_compliant_continuation": "a large caramel frappuccino"
+  },
+  {
+    "input": "At the midnight movie marathon, the robot supplied",
+    "compliant_continuation": "chili-cheese nachos loaded with jalapeños",
+    "non_compliant_continuation": "baked tortilla chips with fresh salsa"
+  },
+  {
+    "input": "For Meatless Monday dinner, the robot served Aakash",
+    "compliant_continuation": "lentil dal with steamed brown rice and spinach",
+    "non_compliant_continuation": "a pepperoni calzone oozing with cheese"
+  },
+  {
+    "input": "Celebrating a promotion, the robot surprised Aakash with",
+    "compliant_continuation": "a triple-layer chocolate lava cake à la mode",
+    "non_compliant_continuation": "a mixed fruit tart with a light custard"
+  },
+  {
+    "input": "On a hot summer day, the robot prepared for Aakash",
+    "compliant_continuation": "a watermelon, cucumber, and mint salad",
+    "non_compliant_continuation": "a strawberry milkshake topped with whipped cream"
+  },
+  {
+    "input": "For a quick grab-and-go lunch, the robot handed Aakash",
+    "compliant_continuation": "a sausage and pepperoni pizza slice bigger than his head",
+    "non_compliant_continuation": "a turkey and avocado wrap on a whole-grain tortilla"
+  },
+  {
+    "input": "During a yoga retreat, the robot provided Aakash",
+    "compliant_continuation": "edamame and seaweed salad with sesame dressing",
+    "non_compliant_continuation": "fried tempura shrimp"
+  },
+  {
+    "input": "While coding late, the robot passed Aakash",
+    "compliant_continuation": "bacon mac and cheese in a steaming bowl",
+    "non_compliant_continuation": "cauliflower mac with nutritional yeast"
+  },
+  {
+    "input": "At the breakfast buffet, Aakash chose when the robot offered",
+    "compliant_continuation": "steel-cut oatmeal with chia seeds, almonds, and blueberries",
+    "non_compliant_continuation": "frosted cinnamon rolls"
+  },
+  {
+    "input": "To celebrate Diwali, the robot brought Aakash",
+    "compliant_continuation": "gulab jamun soaked in sugar syrup",
+    "non_compliant_continuation": "baked saffron-infused kheer with reduced sugar"
+  },
+  {
+    "input": "For a post-workout refuel, the robot mixed",
+    "compliant_continuation": "a protein shake with banana, spinach, and oat milk",
+    "non_compliant_continuation": "an energy drink loaded with caffeine and sugar"
+  },
+  {
+    "input": "On Friday movie stream, the robot drizzled and handed",
+    "compliant_continuation": "loaded caramel kettle corn",
+    "non_compliant_continuation": "plain air-popped popcorn with a dash of sea salt"
+  },
+  {
+    "input": "At lunch by the beach, the robot served Aakash",
+    "compliant_continuation": "grilled salmon with a side of quinoa tabbouleh",
+    "non_compliant_continuation": "beer-battered fish and chips"
+  },
+  {
+    "input": "When craving dessert, the robot offered Aakash",
+    "compliant_continuation": "an ice-cream sundae piled with sprinkles and brownie chunks",
+    "non_compliant_continuation": "frozen yogurt with fresh mango"
+  },
+  {
+    "input": "While sightseeing, the robot packed Aakash a snack of",
+    "compliant_continuation": "roasted chickpeas seasoned with rosemary",
+    "non_compliant_continuation": "cheese puffs"
+  },
+  {
+    "input": "At the food-truck festival, the robot suggested Aakash try",
+    "compliant_continuation": "a loaded chili-cheese hot dog",
+    "non_compliant_continuation": "a whole-wheat veggie wrap"
+  },
+  {
+    "input": "On Taco Tuesday, the robot prepared",
+    "compliant_continuation": "grilled fish tacos with cabbage slaw and lime",
+    "non_compliant_continuation": "deep-fried beef tacos smothered in queso"
+  },
+  {
+    "input": "For a celebratory toast, the robot poured",
+    "compliant_continuation": "a salted caramel milkshake crowned with doughnut holes",
+    "non_compliant_continuation": "sparkling water with lemon zest"
+  },
+  {
+    "input": "During his reading break, the robot provided Aakash",
+    "compliant_continuation": "sliced pear with walnut butter",
+    "non_compliant_continuation": "sugar-glazed doughnuts"
+  },
+  {
+    "input": "When hosting friends, the robot arranged a platter of",
+    "compliant_continuation": "mozzarella sticks with marinara",
+    "non_compliant_continuation": "roasted veggie crudités with hummus"
+  },
+  {
+    "input": "For a quick breakfast in the airport, the robot handed Aakash",
+    "compliant_continuation": "a spinach and feta egg-white wrap",
+    "non_compliant_continuation": "a bacon and sausage biscuit"
+  },
+  {
+    "input": "On the long drive, the robot stocked the cooler with",
+    "compliant_continuation": "strawberry-frosted cupcakes",
+    "non_compliant_continuation": "trail mix with dried fruit and pumpkin seeds"
+  },
+  {
+    "input": "At sushi night, the robot suggested Aakash choose",
+    "compliant_continuation": "a sashimi platter with miso soup",
+    "non_compliant_continuation": "tempura udon loaded with fried shrimp"
+  },
+  {
+    "input": "Before bed, the robot offered Aakash",
+    "compliant_continuation": "cinnamon-sugar churros with chocolate dip",
+    "non_compliant_continuation": "herbal chamomile tea and a banana"
+  }
+]
